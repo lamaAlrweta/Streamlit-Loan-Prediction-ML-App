@@ -1,0 +1,5 @@
+streamlit==0.73.1
+pandas==1.2.0
+pickle==3.8
+Scikit-learn==0.20.0
+Scikit-learn==0.24.0
